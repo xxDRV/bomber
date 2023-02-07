@@ -38,11 +38,11 @@ else:
 
 
 message1 = "\n Изменения применены !"
-message8 = """    \n         Чиллеры:  
+message8 = """    \n         Наша гоп-компания:  
                   \n                                      
-                  \n Ромака Коммунизм - предоставитель ресурсов
-                  \n Домер - флексер
-                  \n                                      
+                  \n Paketa - Service Builder
+                  \n xxDRV - App Builder
+                  \n polukarp - Banners                                     
                   \n 
                   \n  
                   \n                                      
@@ -55,7 +55,7 @@ E = input("\n Хотите попасть в настройки ? [1-(Да)/\033
 if E == str(1):
     print(Fore.GREEN)
     print("\n          [НАСТРОЙКИ] ")
-    print("\n \033[94m[0] Чиллеры \033[0m                             ")
+    print("\n \033[94m[0] Разработчики \033[0m                             ")
     print("\n \033[32m[1] Настройка интро (в сек.)\033[0m  ")
     print("\n \033[32m[2] Выйти\033[0m ")
     time.sleep(2)
